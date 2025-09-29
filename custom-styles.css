@@ -1,0 +1,10 @@
+/* Exemplu de stiluri personalizate */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.my-custom-class {
+    color: #333;
+    background: #f0f0f0;
+    padding: 20px;
+}
