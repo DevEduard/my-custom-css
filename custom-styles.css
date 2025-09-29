@@ -1,10 +1,53 @@
 /* Exemplu de stiluri personalizate */
 body {
     font-family: 'Arial', sans-serif;
+    background: #E04122 !important;
 }
 
 .my-custom-class {
     color: #333;
     background: #f0f0f0;
     padding: 20px;
+}
+
+
+.hbDiBp .toolbar > div > .toolbar-item {
+    background: #E04122 !important;
+}
+
+/* Exemplu: Modifică background-ul tab-urilor */
+.nav-item.tab-contents {
+    background-color: #E04122 !important;
+    color: white !important;
+}
+
+/* Modifică sidebar-ul editorului */
+.blockbuilder-sidebar {
+    background-color: #E04122 !important;
+}
+
+/* Modifică toolbar-ul */
+.blockbuilder-topbar {
+    background-color: #E04122 !important;
+    color: white !important;
+}
+
+/* Modifică butoanele din editor */
+.blockbuilder-button {
+    border-radius: 8px !important;
+    padding: 10px 20px !important;
+}
+
+/* Modifică fontul din editor */
+.unlayer-editor * {
+    font-family: 'Inter', sans-serif !important;
+}
+
+.toolbar-left {
+    background: #E04122 !important;
+}
+
+.acQIQ .toolbar > div.toolbar-left {
+    background: #E04122 !important;
+}
 }
